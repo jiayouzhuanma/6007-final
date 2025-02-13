@@ -1,0 +1,5 @@
+Flask
+Dash
+Plotly
+pandas
+threading
